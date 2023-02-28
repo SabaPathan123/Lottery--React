@@ -1,0 +1,12 @@
+.Ball{
+    background-color: tomato;
+    color: #fff;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 20px 10px;
+    display : inline-block;
+    height: 2rem;
+    width : 2rem;
+    text-align: center;
+    font-size: 14px;
+}
